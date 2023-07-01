@@ -1,0 +1,29 @@
+.contactList_list{
+    
+    padding-right: 40px;
+    align-items: center;
+    color: #000000;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+
+.contactList_item{
+display: flex;
+justify-content: space-between;
+width: 600px;
+padding: 10px;
+}
+
+.button{
+    margin-left: 20px;
+    width: 100px;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.button:hover,
+.button:active,
+.button:focus {
+    background-color: #91a6e2;
+}
